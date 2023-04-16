@@ -12,3 +12,6 @@ Eai 👋
   
 </div>
 
+
+![snake gif](https://github.com/DioBrandon31/DioBrandon31/blob/output/github-contribution-grid-snake.svg)
+
