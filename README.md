@@ -1,7 +1,7 @@
 Eai 👋
 
 - 🔭 Estudante de ciência da computação 
-- 🌱 Aprendendo Python e Javascript
+
 
  
 <div> 
